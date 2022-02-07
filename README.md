@@ -9,6 +9,7 @@ The results of this analysis can be used by PyBer to make important decisions re
 ## Results
 The analysis created a dataframe of the important data regarding Omar's request, seen below.
 ![PyBer_summary_dataframe](https://user-images.githubusercontent.com/96553988/152713422-17d90214-8380-4e95-9477-e7b3c3ec9f7c.png)
+
 From this dataframe we can see the total rides, total drivers, total fares, average fare per ride, and average fare per driver, for each city type.
 Rural cities have the least number of rides and the least number of drivers, whereas Urban cities have the most.
 Conversely, rural cities have the highest average fare per driver, as well as per ride.
