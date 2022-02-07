@@ -20,3 +20,4 @@ Above is a line graph representing the total fares for each city type for each w
 This graph displays that Urban cities create the largest total fares, with suburban cities displaying the second most, and rural cities totalling the least fares.
 
 ## Summary
+Based on the results of this analysis the recommendations I would make are to invest in getting more drivers in rural cities. Despite a low total fare, the average fare in rural cities is much higher than other city types and creates an oppurtunity for more profit. Conversely, urban cities seem to have too many drivers, I suggest we halt the hiring of additional drivers in urban cities. As can be seen in the data frame the number of drivers is greater than the number of rides and the average fare per driver is much lower than other city types. Suburban cities show a good yield in total fare without reaching a very low average fare per driver like urban cities do.
