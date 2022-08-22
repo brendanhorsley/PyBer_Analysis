@@ -7,12 +7,14 @@ Additionally, the client Omar requested a line graph showing total weekly fares 
 The results of this analysis can be used by PyBer to make important decisions regarding fare prices and hiring practices.
 
 ## Results
-The analysis created a dataframe of the important data regarding Omar's request, seen below.
-![PyBer_summary_dataframe](https://user-images.githubusercontent.com/96553988/152713422-17d90214-8380-4e95-9477-e7b3c3ec9f7c.png)
+After cleaning and preliminary analysis pie charts were created to visualize and understand the impact of each city type on the company's costs and revenue.
 
 ![Fig5](https://user-images.githubusercontent.com/96553988/185920669-9221e411-7021-4c9f-ba34-6f13d78f14f8.png)
 ![Fig6](https://user-images.githubusercontent.com/96553988/185920682-7a14bcc8-6ddb-40e3-8624-ae08c03c96aa.png)
 ![Fig7](https://user-images.githubusercontent.com/96553988/185920687-fdbe5424-724b-4612-a12c-1c69e6f4904d.png)
+
+The analysis created a dataframe of the important data regarding Omar's request, seen below.
+![PyBer_summary_dataframe](https://user-images.githubusercontent.com/96553988/152713422-17d90214-8380-4e95-9477-e7b3c3ec9f7c.png)
 
 From this dataframe we can see the total rides, total drivers, total fares, average fare per ride, and average fare per driver, for each city type.
 Rural cities have the least number of rides and the least number of drivers, whereas Urban cities have the most.
